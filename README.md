@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, HTML, Java, CSS, C++ and other languagues and software 
 - 💞️ I’m looking to collaborate on people's projects 
 - 📫 How to reach me: @pedrolavieira on instagram 
-- ⚡ Interesting fact: I studied and lived in the last distorship in Europe, Belarus. 
+- ⚡ Interesting fact: I studied and lived in the last distorship in Europe, Belarus 🇧🇾 
 
 <!---
 Pedrolaviru/Pedrolaviru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
